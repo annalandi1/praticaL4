@@ -1,21 +1,22 @@
 
 
-
+html{font-size: 62.5em}
 
 body{
-    width: 420px;
+    width: 450px;
     background-image: url(./sfondo.png);
-    
+
 }
 
 
 header {
     background-color: #265af8;
-    width: 410px;
-    margin: 15px;
+    width: 430px;
+    margin-left: auto;
+    margin-left:auto;s
     padding:25px;
-    margin-left:40px;
-
+    text-align: center;
+     
 }
 
 #logo{
@@ -23,8 +24,8 @@ header {
     margin border-bottom: 30px;
 }
 
-#h1{
-    font-family: "Poppins", system-ui;
+h1 {
+    font-family: 'Poppins', system-ui;
     font-weight: 600;
     font-style: normal;
     font-size:2em;
@@ -33,8 +34,8 @@ header {
     margin-top: 25px;
 }
 
-#menu{
-    font-family: "Poppins", system-ui;
+menu{
+    font-family: 'Poppins', system-ui;
     font-weight: 600;
     font-style: normal;
     font-size:2em;
@@ -42,9 +43,16 @@ header {
     list-style: none;
 }
 
+main {
+       
+    background-color: antiquewhite;
+    width: 430px;
+
+}
 
 #video{
     width:340px;
     margin-left: 40px;
+    align-items: center;
     }
 
