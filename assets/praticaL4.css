@@ -1,9 +1,9 @@
 
 
-html{font-size: 62.5em}
+html{font-size: 62.5%}
 
 body{
-    width: 450px;
+    max-width: s;width: 450px;
     background-image: url(./sfondo.png);
 
 }
@@ -21,14 +21,14 @@ header {
 
 #logo{
     margin: left 168px;
-    margin border-bottom: 30px;
+    margin border-bottom: 30px;s
 }
 
 h1 {
     font-family: 'Poppins', system-ui;
     font-weight: 600;
     font-style: normal;
-    font-size:2em;
+    font-size: 1em;
     text-align: center;
     margin-bottom: 2em;
     margin-top: 25px;
@@ -38,7 +38,7 @@ menu{
     font-family: 'Poppins', system-ui;
     font-weight: 600;
     font-style: normal;
-    font-size:2em;
+    font-size:1em;
     text-align: center;
     list-style: none;
 }
